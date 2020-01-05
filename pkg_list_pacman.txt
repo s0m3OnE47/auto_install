@@ -1,0 +1,15 @@
+git
+base-devel
+fish
+xfce4-terminal
+ranger
+htop
+viewnior
+w3m
+vlc
+rtv
+neofetch
+steam
+libreoffice-still
+brave
+firefox
